@@ -1,6 +1,8 @@
 # Open Previous Page in New Tab: Firefox Extension
 A small firefox extension. Adds a tab menu option to duplicate the current tab and hit the back button on the duplicated tab.
 
+![icon/icon-48.png](icon/icon-48.png)
+
 ![open-previous-page-in-new-tab](https://github.com/HandcartCactus/open-previous-page-in-new-tab/assets/38086802/bb94b8be-6904-46e7-a6cb-33c264cad0e7)
 
 ## Why?
@@ -18,3 +20,4 @@ You opened a new link on purpose, but it accidentally opened in the same tab. Yo
 You can install the extension via the [Firefox add-ons directory](https://addons.mozilla.org/en-US/firefox/addon/open-previous-page-in-new-tab/) when the listing is approved.
 
 In the meantime, you can also download the current release. Visit `about:debugging#/runtime/this-firefox` in your browser and click the top-right button that reads "Load Temporary Add-on". Upload the zip file and you should be good to go!
+
