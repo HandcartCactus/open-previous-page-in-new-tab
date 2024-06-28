@@ -17,7 +17,7 @@ You opened a new link on purpose, but it accidentally opened in the same tab. Yo
 2. Hits the back button on the newer tab. If there is no history, it only duplicates the tab.
 
 ## Installing
-You can install the extension via the [Firefox add-ons directory](https://addons.mozilla.org/en-US/firefox/addon/open-previous-page-in-new-tab/) when the listing is approved.
+You can install the extension via the [Firefox add-ons directory](https://addons.mozilla.org/en-US/firefox/addon/open-previous-page-in-new-tab/).
 
 In the meantime, you can also download the current release. Visit `about:debugging#/runtime/this-firefox` in your browser and click the top-right button that reads "Load Temporary Add-on". Upload the zip file and you should be good to go!
 
